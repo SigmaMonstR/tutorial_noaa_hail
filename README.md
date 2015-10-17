@@ -4,7 +4,7 @@
 Hail storms can cause harm to people and property. This R tutorial with  leaflet.js + Google Charts integration focuses on getting started with NOAA's severe weather data to assess and map hail risk around the US.
 
 ###Get Started
-- [Not yet active]:  http://CommerceDataService.github.io/tutorial_noaa_hail/
+- http://CommerceDataService.github.io/tutorial_noaa_hail/
 
 ###What's included
 This repository contains:
