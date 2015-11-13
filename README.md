@@ -8,15 +8,14 @@
 Hail storms can cause harm to people and property. This R tutorial with  leaflet.js + Google Charts integration focuses on getting started with NOAA's severe weather data to assess and map hail risk around the US.
 
 ####> objective
-Using various pattern detection methods, train and evaluate models against hundreds of county-level, monthly-level statistics to assess the feasibility of monitoring key metrics for near real-time tracking.
+- Demonstrate how to process, visualize and use NOAA's Severe Weather Data Inventory (SWDI -- https://www.ncdc.noaa.gov/swdi/) in order to understand weather risks, particularly hail. Methods can be expanded to other events such as tornados.
 
 ####> milestones
-- **November 2015**: 
-  - Initial data collection using VIIRS monthly composites, discussions with NOAA
-  - Collection of multiple county level data sources from the Census Bureau, Bureau of Labor Statistics, Energy Information Administration
-  - Iterative model training 
-- **December 2015**:
-  - Reveal first findings, discussions on production possibilities
+- **October 2015**: 
+  - Collaborate with NOAA NCEI on initial data usage, review
+  - Develop R processing code for API calls, processing, maps
+- **November 2015**:
+  - Produce v1.0 tutorial on processing hail climatologies
 
 ####> code
 This repository contains:
