@@ -4,7 +4,7 @@
 - Star Ying, Data Scientist, Commerce Data Service
 - Tyrone Grandison, Deputy CDO,Commerce Data Service
 
-####> Get Started
+####> tutorial link
 - http://CommerceDataService.github.io/tutorial_noaa_hail/
 
 ####> intro
