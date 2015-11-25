@@ -1,9 +1,9 @@
 ## [Commerce Usability Project](http://commercedataservice.github.io/CommerceUsabilityProject/)
 ### Tutorial: Goodness gracious, great balls of **hail**
 
-- tutorial: http://CommerceDataService.github.io/CUP_tutorial_noaa_hail/
-- repo: https://github.com/CommerceDataService/CUP_tutorial_noaa_hail/tree/gh-pages
-- R code: https://github.com/CommerceDataService/CUP_tutorial_noaa_hail/tree/gh-pages/tutorial_files
+- tutorial: http://CommerceDataService.github.io/tutorial_noaa_hail/
+- repo: https://github.com/CommerceDataService/tutorial_noaa_hail/tree/gh-pages
+- R code: https://github.com/CommerceDataService/tutorial_noaa_hail/tree/gh-pages/tutorial_files
 
 ####> intro
 Hail storms can cause harm to people and property. This R tutorial with  leaflet.js + Google Charts integration focuses on getting started with NOAA's severe weather data to assess and map hail risk around the US.
