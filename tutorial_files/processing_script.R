@@ -104,7 +104,7 @@ swdi_pull <- function(start_date,end_date,series){
     temp = tempfile()
     download.file(url, temp) ##download the URL taret to the temp file
     unzip(temp,exdir=getwd()) ##unzip that file
-    return(readOGR(shp,shp))
+    return(readOGR(paste(shp,".shp",sep=""),shp))
   }
 
 ##To run the shape_direct function, we just need the url and the shapefile name.
