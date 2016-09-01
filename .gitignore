@@ -1,0 +1,8 @@
+2014_1yr_Summary_FileTemplates/
+*.Rhistory
+*.xml
+*.json
+*.zip
+*.sublime-project
+*.sublime-workspace
+.ipynb_checkpoints/
